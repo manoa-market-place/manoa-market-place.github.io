@@ -1,4 +1,5 @@
 # Manoa Marketplace
+theme: minima
 
 ## Table of contents
 

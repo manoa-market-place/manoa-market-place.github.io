@@ -38,28 +38,28 @@ This section provides a walkthrough of the Manoa Marketplace user interface and 
 ### Landing Page
 The landing page is presented to students when they visit the top-level URL to the site.
 
-<img src="doc/mock-landing-page.png" width="50%" alt="">
+<img src="doc/mock-landing-page.png" alt="">
 
 ### Log In Page
 The log in page will direct students to log in using the registered @hawaii.edu account.
 
-<img src="doc/mock-login-page.png" width="50%" alt="">
+<img src="doc/mock-login-page.png" alt="">
 
 
 ### Sign Up Page
 The sign up page will direct students to register using their @hawaii.edu email.
 
-<img src="doc/mock-signup-page.png" width="50%" alt="">
+<img src="doc/mock-signup-page.png" alt="">
 
 ### Browse Listing
 Once logged in, you can browse an accommodation listing, and reach out to the owner of the listing
 
-<img src="doc/mock-sublet-listing.png" width="50%" alt="">
+<img src="doc/mock-sublet-listing.png" alt="">
 
 
 Under Goods, you can add a product to the cart to check out, which will automatically contact the lister that you are interested in buying the product.
 
-<img src="doc/mock-wallet-listing.png" width="50%" alt="">
+<img src="doc/mock-wallet-listing.png" alt="">
 
 
 

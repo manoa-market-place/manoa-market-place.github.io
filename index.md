@@ -80,17 +80,17 @@ The following sections document the development history of the Manoa Marketplace
 ### Milestone 1: Mockup Development
 The goal of Milestone 1 (M1) was to set up the team, create initial issues, and deploy the initial application system to Digital Ocean with a landing page and at least four other mockup pages. 
 
-M1 was managed using [Manoa Marketplace GitHub Project Board M1](https://github.com/orgs/manoa-market-place/projects/1):
+M1 was managed using [Manoa Marketplace GitHub Project Board M1](https://github.com/orgs/manoa-market-place/projects/4):
 
 ### Milestone 2: Full Development
 The goal of Milestone 2 (M2) was to continue manage the project and implement the core functionalities of the application.
 
-M2 was managed using [Manoa Marketplace GitHub Project Board M2]():
+M2 was managed using [Manoa Marketplace GitHub Project Board M2](https://github.com/orgs/manoa-market-place/projects/2):
 
 ### Milestone 3: Final Touches
 The goal of Milestone 3 (M3) was to finish the project, acquire community feedback and implement acceptance testing.
 
-M3 was managed using [Manoa Marketplace GitHub Project Board M3]():
+M3 was managed using [Manoa Marketplace GitHub Project Board M3](https://github.com/orgs/manoa-market-place/projects/3):
 
 ### Beyond the basics
 The follow contains yet-to-be-implemented ideas for more advanced features to the Manoa Marketplace:

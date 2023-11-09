@@ -1,0 +1,10 @@
+title: Manoa Marketplace
+description: "An online market exchange place for the 'Bows!"
+google_analytics: 
+show_downloads: false
+theme: jekyll-theme-tactile
+github:
+  is_project_page: true
+  repository_url: https://github.com/manoa-market-place/manoa-market-place
+gems:
+  - jekyll-mentions

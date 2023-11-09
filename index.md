@@ -1,20 +1,128 @@
 # Manoa Marketplace
+_An online marketplace of all things you can buy/sell for the 'Bows!_
+
+
 
 ## Table of contents
-
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-* [Team](#team)
+* [Contact Us](#contact-us)
 
 ## Overview
+Manoa Marketplace is a web application for UHM students to facilitate buying and selling of student-related goods and services.
 
+### Approach
+* Buyers and sellers must be UH students, faculty, or staff
+* There is no anonymity: buyers and sellers connect through their UH credentials
+* Transactions are expected to occur on-campus. If a seller wants to meet off-campus, that can be a red-flag
+* Because buyers and sellers are from UHM, the goods and services will be relevant to UH students
+
+### Implementation
+Manoa Marketplace is designed with the following technologies:
+* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code
+* [Bootstrap 5 React](https://react-bootstrap.github.io/) for user interface
+* [Uniforms](https://uniforms.tools/) for form development
+
+
+## Deployment
+See the [Manoa Marketplace]() in deployment through [Digital Ocean](https://www.digitalocean.com/)
+
+
+## User Guide
+This section provides a walkthrough of the Manoa Marketplace user interface and its capabilities.
+
+
+
+## Community Feedback
+We are eager to know how you liked the Manoa Marketplace! After experiencing with the application, please take a couple of minutes to fill out the [Manoa Marketplace Feedback Form](https://forms.gle/4wUn5QGKwvkbddfY6). It will greatly help us understand how our system is, improve 
+existing features or implement new ones. Mahalo!
+
+
+## Developer Guide
+This section provides information of interest to Meteor developers wishing to use this application for their own development tasks.
+
+### Installation
+1. [install Meteor](https://www.meteor.com/install)
+2. Visit the [Manoa Marketplace GitHub page](https://github.com/manoa-market-place/manoa-market-place), and click the "Use this template" button to create your own repository with initialized with a copy of this application. Alternatively, you 
+   can download the source code as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+3. cd into the manoa-market-place/app directory and install libraries with:
+   4. ```
+      $ meteor npm install
+      ```
+4. Run the system with:
+   5. ```
+      $ meteor npm run start
+      ```
+5. If all goes well, you can view your application at [http://localhost:3000](http://localhost:3000)
+6. You can login using the credentials in [settings.development.json](), or else register a new account.
+
+### ESLint
+YOu can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+```
+$ meteor npm run lint
+```
+
+
+## Development History
+
+The development process for Manoa Marketplace conformed to [Issue Driven Project Management (IDPM)](https://courses.ics.hawaii.edu/ics314f23/morea/project-management/reading-guidelines-idpm.html) agile software process. Bottom line up front (BLUF):
+* Process was managed using milestones which provide "deliverables" every 7-14 days.
+* Within each milestone contains a series of tasks as GitHub Issues taking ideally 2~3 days to accomplish
+* The work performed on each issue is in its own branch named "issue-XX", where XX is the issue number, and merged back into the main branch after its completion
+* The status of each issue (todo, in progress, complete) under a milestone is managed using the GitHub Project Board
+
+The following sections document the development history of the Manoa Marketplace.
+
+### Milestone 1: Mockup Development
+The goal of Milestone 1 (M1) was to set up the team, create initial issues, and deploy the initial application system to Digital Ocean with a landing page and at least four other mockup pages. 
+
+M1 was managed using [Manoa Marketplace GitHub Project Board M1](https://github.com/orgs/manoa-market-place/projects/1):
+
+### Milestone 2: Full Development
+The goal of Milestone 2 (M2) was to continue manage the project and implement the core functionalities of the application.
+
+M2 was managed using [Manoa Marketplace GitHub Project Board M2]():
+
+### Milestone 3: Final Touches
+The goal of Milestone 3 (M3) was to finish the project, acquire community feedback and implement acceptance testing.
+
+M3 was managed using [Manoa Marketplace GitHub Project Board M3]():
+
+### Beyond the basics
+The follow contains yet-to-be-implemented ideas for more advanced features to the Manoa Marketplace:
+* A rating system for buyers and sellers
+* Map-based interface to indicate where goods are
+
+### Links
+* The [Manoa Marketplace GitHub organization](https://github.com/manoa-market-place)
+  * [Home Page Repository](https://github.com/manoa-market-place/manoa-market-place.github.io)
+  * [Project Template Repository](https://github.com/manoa-market-place/manoa-market-place)
+* The Devs' [Team Contract]()
+
+
+
+
+
+## Contact Us
+Manoa Marketplace is designed, implemented, and maintained by the following developers:
+
+* [Andrew Lin](https://andrewlin808.github.io/)
+* [Baishen Wang]()
+* [Bing Ying Li]()
+* [Carlton Hung]()
+* [Yujie He]()
+
+
+
+
+
+
+
+<!--
 BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
@@ -34,9 +142,7 @@ It also provides code that implements a variety of useful design concepts, inclu
 * Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
 * Use of Meteor Assets to initialize the database (helpful when initialization exceeds settings file size limits).
 
-## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 
 ### Landing Page
 
@@ -307,31 +413,5 @@ Milestone 3 was managed using [BowFolio GitHub Project Board M3](https://github.
 ![](images/project-board-3.png)
 
 As of the time of writing, this screenshot shows that there is an ongoing task (i.e. this writing).
+-->
 
-## Walkthrough videos
-
-BowFolios is intended as a model of how an ICS 314 project could be organized and executed. Here are videos that walk you through various aspects of the system:
-
-* [BowFolios Part 1: Application Overview (5 min)](https://www.youtube.com/watch?v=5lXSLf9VHqw)
-* [BowFolios Part 2: Application Structure and Control Flow (14 min)](https://www.youtube.com/watch?v=hQYc8UK4K7w)
-* [BowFolios Part 3: Data Model, Data Initialization, Publications and Subscriptions (27 min)](https://www.youtube.com/watch?v=pcZg_44Ssdk)
-* [BowFolios Part 4: Forms and Meteor Methods (20 min)](https://www.youtube.com/watch?v=TLavamIYaEc)
-* [BowFolios Part 5: Loading data using Assets (8 min)](https://www.youtube.com/watch?v=NzrTzBPCJPo)
-* [BowFolios Part 6: End-to-End testing in BowFolios (24 min)](https://www.youtube.com/watch?v=B8TSiCLBeaA)
-
-## Example enhancements
-
-There are a number of simple enhancements you can make to the system to become better acquainted with the codebase:
-
-* Display an email icon that links to a mailto: for each user in the profile page.
-* Display the home page for each project as a home icon. Click on it to visit the Project's home page.
-* Add social media accounts to the profile (facebook, twitter, instagram) and show the associated icon in the Profile.
-* The system supports the definition of users with an Admin role, but there are no Admin-specific capabilities. Implement some Admin-specific functions, such as the ability to delete users or add/modify/delete Interests.
-* There is no way to edit or delete a project definition. Add this ability.
-* It would be nice for users to only be able to edit the Projects that they have created.  Add an "owner" field to the Project collection, and then only allow a user to edit a Project definition if they own it.
-* The error message associated with trying to define a new Project with an existing Project name is uninformative. Try it out for yourself to see what happens. Fix this by improving the associated Meteor Method to "catch" errors of this type and re-throw with a more informative error message.
-* The testcafe acceptance tests only test successful form submissions. Add a test in which you fill out a form incorrectly (perhaps omitting a required field) and then test to ensure that the form does not submit successfully.
-
-## Team
-
-BowFolios is designed, implemented, and maintained by [Philip Johnson](https://philipmjohnson.org) and [Cam Moore](https://cammoore.github.io/).

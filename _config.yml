@@ -2,7 +2,7 @@ title: Manoa Marketplace
 description: "An online marketplace of all things you can buy/sell for the 'Bows!"
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-market-place/manoa-market-place

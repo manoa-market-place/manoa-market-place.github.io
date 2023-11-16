@@ -30,6 +30,7 @@ Manoa Marketplace is designed with the following technologies:
 
 ## Deployment
 See the Manoa Marketplace in deployment through Digital Ocean at [http://24.144.85.125](http://24.144.85.125)
+(_Custom Domain Name and HTTPS implementation coming soon..._)
 
 
 ## User Guide
@@ -38,20 +39,40 @@ This section provides a walkthrough of the Manoa Marketplace user interface and 
 ### Landing Page
 The landing page is presented to students when they visit the top-level URL of the site.
 
-<img src="doc/mock-landing-page.png" alt="">
+<img src="doc/landing-page.png" alt="">
+
+### Sign Up Page
+The sign up page will direct students to register using their @hawaii.edu email.
+
+<img src="doc/sign-up-page.png" alt="">
+
 
 ### Log In Page
 The log in page will direct students to log in using the registered @hawaii.edu account.
 
 <img src="doc/mock-login-page.png" alt="">
 
+### Home Page
+After logging in, the student will be directed to their home page. More features of the app are now displayed for the student to begin browsing listings.
 
-### Sign Up Page
-The sign up page will direct students to register using their @hawaii.edu email.
+<img src="doc/home-page.png" alt="">
 
-<img src="doc/mock-signup-page.png" alt="">
+### Add Product Page
+Students have the ability to add a product for sale.
 
-### Browse Listing
+<img src="doc/add-product-page.png" alt="">
+
+### List Product Page
+Students can list out all the products that they own.
+
+<img src="doc/list-product-page.png" alt="">
+
+### Admin Page
+Logging in as an admin allows you to view all user's products.
+
+<img src="doc/admin-page.png" alt="">
+
+### Browse Listing (Mock)
 Once logged in, you can browse an accommodation listing, and reach out to the owner of the listing
 
 <img src="doc/mock-sublet-listing.png" alt="">
@@ -60,8 +81,6 @@ Once logged in, you can browse an accommodation listing, and reach out to the ow
 Under Goods, you can add a product to the cart to check out, which will automatically contact the lister that you are interested in buying the product.
 
 <img src="doc/mock-wallet-listing.png" alt="">
-
-
 
 
 ## Community Feedback

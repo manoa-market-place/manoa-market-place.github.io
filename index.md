@@ -29,7 +29,7 @@ Manoa Marketplace is designed with the following technologies:
 
 
 ## Deployment
-See the [Manoa Marketplace]() in deployment through [Digital Ocean](https://www.digitalocean.com/)
+See the Manoa Marketplace in deployment through Digital Ocean at [http://24.144.85.125](http://24.144.85.125)
 
 
 ## User Guide

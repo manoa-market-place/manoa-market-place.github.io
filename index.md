@@ -29,8 +29,9 @@ Manoa Marketplace is designed with the following technologies:
 
 
 ## Deployment
-See the Manoa Marketplace in deployment through Digital Ocean at [http://24.144.85.125](http://24.144.85.125)
-(_Custom Domain Name and HTTPS implementation coming soon..._)
+See the Manoa Marketplace in deployment through Digital Ocean at https://manoa-marketplace.shop
+
+[![ci-meteor-application-template-react](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml/badge.svg)](https://github.com/ics-software-engineering/meteor-application-template-react/actions/workflows/ci.yml)
 
 
 ## User Guide

@@ -38,7 +38,6 @@ Manoa Marketplace is designed with the following technologies:
 
 See the Manoa Marketplace in deployment through Digital Ocean at https://manoa-marketplace.shop
 
-![ci-manoa-market-place](https://github.com/manoa-market-place/manoa-market-place/workflows/ci-manoa-market-place/badge.svg)
 [![ci-manoa-market-place](https://github.com/manoa-market-place/manoa-market-place/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-market-place/manoa-market-place/actions/workflows/ci.yml)
 
 ## User Guide

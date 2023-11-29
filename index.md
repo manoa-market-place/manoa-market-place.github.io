@@ -78,11 +78,19 @@ The user is also able to go into their profile to see an overview of their user 
 
 The user is able to click the link to bring up a form to edit their profile information.
 
+<img src="doc/Profile-edit-page.png" alt="">
+
 ### Add Product Page
 
 Students have the ability to add a product for sale. Once added, the product will be listed on the List Product Page for their own perusal.
 
 <img src="doc/add-product-page.png" alt="">
+
+### Add Service Page
+
+Students have the ability to add a service for sale. Once added, the product will be listed on the Service page.
+
+<img src="doc/add-service-page.png" alt="">
 
 ### My Products Page
 
@@ -95,6 +103,12 @@ Students can list out all the products that they own, edit/delete the products.
 This page displays all (excluding the user's) public goods that are available for sale. The user can click on the button to add to cart for checkout later.
 
 <img src="doc/list-goods-page.png" alt="">
+
+### List Service Page
+
+This page displays all public services that are available for sale.
+
+<img src="doc/service-page.png" alt="">
 
 ### My Cart Page
 

@@ -48,7 +48,7 @@ This section provides a walkthrough of the Manoa Marketplace user interface and 
 
 The landing page is presented to students when they visit the top-level URL of the site. It provides a brief description of the application, and directs students to sign up or log in.
 
-<img src="doc/landing-page.png" alt="">
+<img src="doc/updated-Landing-Page.png" alt="">
 
 ### Sign Up Page
 
@@ -71,6 +71,8 @@ After logging in, the student will be directed to their home page. More features
 ### My Profile Page
 
 The user is also able to go into their profile to see an overview of their user information, as well as some other statistics (WIP).
+
+<img src="doc/Profile-page.png" alt="">
 
 ### Edit Profile Page
 

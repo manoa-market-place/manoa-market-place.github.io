@@ -103,8 +103,28 @@ After adding a product to the cart, the user can view all the products that they
 ## Community Feedback
 
 We are eager to know how you liked the Manoa Marketplace! After experiencing the application, please take a couple of minutes to fill out the [Manoa Marketplace Feedback Form](https://forms.gle/4wUn5QGKwvkbddfY6). It will greatly help us understand
-how our system is, improve
-existing features, or implement new ones. Mahalo!
+how our system is, improve existing features, or implement new ones. Mahalo!
+
+Here are some of the feedbacks we have received so far (CAO 11 Dec 23):
+* _Overall, the project as a whole could feel better made. The website's design can be referred to other commercial websites, and the communication and work distribution between the project team needs to be adjusted according to the understanding of the project._
+* _I like the pop up text that shows a checkmark whenever I add an item to my cart, gives the impression that I'm on the right path for purchasing the item._
+* _Cart menu is organized. Straightforward to look at and review your items before checking out._
+* _I like how hyperlinks allow users to conveniently get to the goods/services they're trying to acquire._
+* _I like how the address and contact information remains at the bottom of the webpage, so it's clear as day as to where and who users need to contact for questions regarding the goods/services._
+
+Here are some of the suggestions for improvements so far (CAO 11 Dec 23):
+* The overall lack of design on the site feels rough, which can manifest itself in the following:
+    1. The landing page is monotonous, and there is a need for more color and pictures to beautify, such as different background colors for each part of the distinction so that users can have the desire to understand the project.
+    2. The default navbar can add some "About Us" pages and tutorials.
+    3. "Add Product" and "My Product" in the navbar are not centered.
+    4. the project may need an icon to show the personalization of the project.
+    5. Perhaps a more aesthetically pleasing way to list items would be to use a different list than a "card."
+    6. Add a filtering and sorting system for products, such as sorting products by category and price, etc., when adding a product or being in a product list.
+    7. add a communication system between sellers and buyers.
+
+* _A location on the item being sold would also go nice, as the only details I see are relating to it's condition and quantity. Including a policy page to website would be beneficial, as to ensure users know what is legally allowed and not allowed
+  (i.e. refunds, what can be sold/serviced, etc.). Include possible an area on the side for advertisements._
+* _Having the background change with each submenu (i.e. a relevant picture relating to the submenu) would help with keeping users engaged with the webpage. An option to add multiple pictures so users can add multiple angles of the products they're trying to sell would help users to sell their items. Having a hyperlink to allow users to give their feedback on would be beneficial._
 
 ## Developer Guide
 

@@ -2,13 +2,20 @@
 
 _An online marketplace of all things you can buy/sell for the 'Bows!_
 
+## Links
+
+* The [Manoa Marketplace GitHub organization](https://github.com/manoa-market-place)
+    * [Home Page Repository](https://github.com/manoa-market-place/manoa-market-place.github.io)
+    * [Project Template Repository](https://github.com/manoa-market-place/manoa-market-place)
+* The Devs' [Team Contract](https://docs.google.com/document/d/1OdRn9MrF8nA7VsuvTfltd_V8z3SGdCiK7xZjGK6fZQo/edit?usp=sharing)
+
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
@@ -34,11 +41,6 @@ Manoa Marketplace is designed with the following technologies:
 * [Bootstrap 5 React](https://react-bootstrap.github.io/) for user interface
 * [Uniforms](https://uniforms.tools/) for form development
 
-## Deployment
-
-See the Manoa Marketplace in deployment through Digital Ocean at https://manoa-marketplace.shop
-
-[![ci-manoa-market-place](https://github.com/manoa-market-place/manoa-market-place/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-market-place/manoa-market-place/actions/workflows/ci.yml)
 
 ## User Guide
 
@@ -130,13 +132,13 @@ Here are some of the feedbacks we have received so far (CAO 11 Dec 23):
 
 Here are some of the suggestions for improvements so far (CAO 11 Dec 23):
 * The overall lack of design on the site feels rough, which can manifest itself in the following:
-    1. The landing page is monotonous, and there is a need for more color and pictures to beautify, such as different background colors for each part of the distinction so that users can have the desire to understand the project.
-    2. The default navbar can add some "About Us" pages and tutorials.
-    3. "Add Product" and "My Product" in the navbar are not centered.
-    4. the project may need an icon to show the personalization of the project.
-    5. Perhaps a more aesthetically pleasing way to list items would be to use a different list than a "card."
-    6. Add a filtering and sorting system for products, such as sorting products by category and price, etc., when adding a product or being in a product list.
-    7. add a communication system between sellers and buyers.
+  1. The landing page is monotonous, and there is a need for more color and pictures to beautify, such as different background colors for each part of the distinction so that users can have the desire to understand the project.
+  2. The default navbar can add some "About Us" pages and tutorials.
+  3. "Add Product" and "My Product" in the navbar are not centered.
+  4. the project may need an icon to show the personalization of the project.
+  5. Perhaps a more aesthetically pleasing way to list items would be to use a different list than a "card."
+  6. Add a filtering and sorting system for products, such as sorting products by category and price, etc., when adding a product or being in a product list.
+  7. add a communication system between sellers and buyers.
 
 * _A location on the item being sold would also go nice, as the only details I see are relating to it's condition and quantity. Including a policy page to website would be beneficial, as to ensure users know what is legally allowed and not allowed
   (i.e. refunds, what can be sold/serviced, etc.). Include possible an area on the side for advertisements._
@@ -169,6 +171,12 @@ YOu can verify that the code obeys our coding standards by running ESLint over t
 ```
 $ meteor npm run lint
 ```
+
+## Deployment
+
+See the Manoa Marketplace in deployment through Digital Ocean at [manoa-marketplace.shop](https://manoa-marketplace.shop)
+
+[![ci-manoa-market-place](https://github.com/manoa-market-place/manoa-market-place/actions/workflows/ci.yml/badge.svg)](https://github.com/manoa-market-place/manoa-market-place/actions/workflows/ci.yml)
 
 ## Development History
 
@@ -206,19 +214,13 @@ The following contains yet-to-be-implemented ideas for more advanced features of
 * A rating system for buyers and sellers
 * Map-based interface to indicate where goods are
 
-### Links
 
-* The [Manoa Marketplace GitHub organization](https://github.com/manoa-market-place)
-    * [Home Page Repository](https://github.com/manoa-market-place/manoa-market-place.github.io)
-    * [Project Template Repository](https://github.com/manoa-market-place/manoa-market-place)
-* The Devs' [Team Contract](https://docs.google.com/document/d/1OdRn9MrF8nA7VsuvTfltd_V8z3SGdCiK7xZjGK6fZQo/edit?usp=sharing)
 
 ## Contact Us
 
 Manoa Marketplace is designed, implemented, and maintained by the following developers:
 
 * [Andrew Lin]()
-* [Baishen Wang]()
 * [Bing Ying Li]()
 * [Carlton Hung]()
 * [Yujie He]()

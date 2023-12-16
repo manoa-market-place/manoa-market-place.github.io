@@ -50,73 +50,73 @@ This section provides a walkthrough of the Manoa Marketplace user interface and 
 
 The landing page is presented to students when they visit the top-level URL of the site. It provides a brief description of the application, and directs students to sign up or log in.
 
-<img src="doc/updated-Landing-Page.png" alt="">
+<img src="doc/Landing-Page.png" alt="">
 
 ### Sign Up Page
 
 The sign up page will direct students to register using their @hawaii.edu email and fill in some basic user information.
 
-<img src="doc/sign-up-page.png" alt="">
+<img src="doc/Register-Page.png" alt="">
 
 ### Log In Page
 
 The log in page will direct students to log in using the registered @hawaii.edu account.
 
-<img src="doc/login-page.png" alt="">
+<img src="doc/Login-Page.png" alt="">
 
 ### Home Page
 
 After logging in, the student will be directed to their home page. More features of the app are now displayed for the student in the navbar section.
 
-<img src="doc/home-page.png" alt="">
+<img src="doc/Home-Page.png" alt="">
 
 ### My Profile Page
 
 The user is also able to go into their profile to see an overview of their user information, as well as some other statistics (WIP).
 
-<img src="doc/Profile-page.png" alt="">
+<img src="doc/Profile-Page.png" alt="">
 
 ### Edit Profile Page
 
 The user is able to click the link to bring up a form to edit their profile information.
 
-<img src="doc/Profile-edit-page.png" alt="">
+<img src="doc/Profile-Edit-Page.png" alt="">
 
 ### Add Product Page
 
 Students have the ability to add a product for sale. Once added, the product will be listed on the List Product Page for their own perusal.
 
-<img src="doc/add-product-page.png" alt="">
+<img src="doc/Add-Product-Page.png" alt="">
 
 ### Add Service Page
 
 Students have the ability to add a service for sale. Once added, the product will be listed on the Service page.
 
-<img src="doc/add-service-page.png" alt="">
+<img src="doc/Add-Service-Page.png" alt="">
 
 ### My Products Page
 
 Students can list out all the products that they own, edit/delete the products.
 
-<img src="doc/my-products-page.png" alt="">
+<img src="doc/My-Product-Page.png" alt="">
 
 ### List Goods Page
 
 This page displays all (excluding the user's) public goods that are available for sale. The user can click on the button to add to cart for checkout later.
 
-<img src="doc/list-goods-page.png" alt="">
+<img src="doc/Goods-Page.png" alt="">
 
 ### List Service Page
 
 This page displays all public services that are available for sale.
 
-<img src="doc/service-page.png" alt="">
+<img src="doc/Service-Page.png" alt="">
 
 ### My Cart Page
 
 After adding a product to the cart, the user can view all the products that they have added to the cart. The user can also remove the product from the cart, or view the individual product page (WIP).
 
-<img src="doc/my-cart-page.png" alt="">
+<img src="doc/Cart-Page.png" alt="">
 
 ## Community Feedback
 
